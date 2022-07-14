@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/pD0hWu5.gif"  width="320" />
+<img src="https://i.imgur.com/pD0hWu5.gif"  width="480" />
 
 # Neurocomputação
 Este repositório foi criado com o objetivo de entender redes neurais artificiais. Faz parte dos componentes curriculares do programa de Mestrado em Computação Aplicada do INPE.
