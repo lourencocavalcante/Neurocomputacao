@@ -1,5 +1,9 @@
 <img src="https://i.imgur.com/pD0hWu5.gif"  width="480" />
 
+https://pimages.toolbox.com/wp-content/uploads/2022/05/18113202/The-Architecture-of-a-Neural-Network.png
+
+<img src="https://pimages.toolbox.com/wp-content/uploads/2022/05/18113202/The-Architecture-of-a-Neural-Network.png"  width="480" />
+
 # Neurocomputação
 Este repositório foi criado com o objetivo de entender redes neurais artificiais. Faz parte dos componentes curriculares do programa de Mestrado em Computação Aplicada do INPE.
 
